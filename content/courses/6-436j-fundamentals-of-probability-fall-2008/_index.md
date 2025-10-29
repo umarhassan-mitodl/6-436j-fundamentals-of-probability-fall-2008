@@ -1,8 +1,6 @@
 ---
 content_type: page
 course_id: 6-436j-fundamentals-of-probability-fall-2008
-hide_download: true
-hide_download_original: null
 layout: course_home
 menu:
   6-436j-fundamentals-of-probability-fall-2008:

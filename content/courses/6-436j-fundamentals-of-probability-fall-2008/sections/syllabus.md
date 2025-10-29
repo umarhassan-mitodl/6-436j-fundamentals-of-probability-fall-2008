@@ -1,8 +1,6 @@
 ---
 content_type: page
 course_id: 6-436j-fundamentals-of-probability-fall-2008
-hide_download: true
-hide_download_original: null
 layout: course_section
 menu:
   6-436j-fundamentals-of-probability-fall-2008:
@@ -53,28 +51,28 @@ You will only be responsible for the material contained in lecture notes and oth
 
 This book comes closest to this course in terms of level and coverage:
 
-[![Buy at Amazon](/images/a_logo_17.gif)](http://www.amazon.com/exec/obidos/ASIN/0198572220/ref=nosim/mitopencourse-20) Grimmett, Geoffrey, and David Stirzaker. _Probability and Random Processes_. 3rd ed. Oxford University Press, 2001. ISBN: 9780198572220.
+{{% resource_link "a9279b04-60d4-4bc8-b80f-b7491db1ee55" "![Buy at Amazon](/images/a_logo_17.gif)" %}} Grimmett, Geoffrey, and David Stirzaker. _Probability and Random Processes_. 3rd ed. Oxford University Press, 2001. ISBN: 9780198572220.
 
 ### Recommended
 
 For a concise, crisp, and rigorous treatment of the theoretical topics to be covered (although at a somewhat higher mathematical level):
 
-[![Buy at Amazon](/images/a_logo_17.gif)](http://www.amazon.com/exec/obidos/ASIN/0521406056/ref=nosim/mitopencourse-20) Williams, David. _Probability with Martingales_. Cambridge University Press, 1991. ISBN: 9780521406055.
+{{% resource_link "2d5ac1db-2a70-4d7b-a324-18ca16fb8787" "![Buy at Amazon](/images/a_logo_17.gif)" %}} Williams, David. _Probability with Martingales_. Cambridge University Press, 1991. ISBN: 9780521406055.
 
 The course syllabus is a proper superset of the 6.041/6.431 syllabus. For a more accessible coverage of that material:
 
-[![Buy at Amazon](/images/a_logo_17.gif)](http://www.amazon.com/exec/obidos/ASIN/188652923X/ref=nosim/mitopencourse-20) Bertsekas, Dimitri, and John Tsitsiklis. _Introduction to Probability_. 2nd ed. Athena Scientific, 2008. ISBN: 9781886529236.
+{{% resource_link "85bb203c-de51-4a50-acfd-2b9583f3e5c9" "![Buy at Amazon](/images/a_logo_17.gif)" %}} Bertsekas, Dimitri, and John Tsitsiklis. _Introduction to Probability_. 2nd ed. Athena Scientific, 2008. ISBN: 9781886529236.
 
 ### Other References
 
 A very well written and accessible development of basic measure-theoretic probability:
 
-[![Buy at Amazon](/images/a_logo_17.gif)](http://www.amazon.com/exec/obidos/ASIN/0817638849/ref=nosim/mitopencourse-20) Adams, Malcolm, and Victor Guillemin. _Measure Theory and Probability_. Birkhäuser Boston, 1996. ISBN: 9780817638849
+{{% resource_link "67974c92-704a-4d56-9a62-4fe6289ec560" "![Buy at Amazon](/images/a_logo_17.gif)" %}} Adams, Malcolm, and Victor Guillemin. _Measure Theory and Probability_. Birkhäuser Boston, 1996. ISBN: 9780817638849
 
 A rather encyclopedic and most comprehensive reference:
 
-[![Buy at Amazon](/images/a_logo_17.gif)](http://www.amazon.com/exec/obidos/ASIN/0471007102/ref=nosim/mitopencourse-20) Billingsley, Patrick. _Probability and Measure_. 3rd ed. Wiley, 1995. ISBN: 9780471007104.
+{{% resource_link "d3861794-534d-402c-b986-9703936bb320" "![Buy at Amazon](/images/a_logo_17.gif)" %}} Billingsley, Patrick. _Probability and Measure_. 3rd ed. Wiley, 1995. ISBN: 9780471007104.
 
 Comprehensive, but significantly more advanced:
 
-[![Buy at Amazon](/images/a_logo_17.gif)](http://www.amazon.com/exec/obidos/ASIN/0521765390/ref=nosim/mitopencourse-20) Durrett, Rick. _Probability: Theory and Examples_. 4th ed. Cambridge University Press, 2010. ISBN: 9780521765398.
+{{% resource_link "decab134-3c53-4b4d-9e52-80d134285ad7" "![Buy at Amazon](/images/a_logo_17.gif)" %}} Durrett, Rick. _Probability: Theory and Examples_. 4th ed. Cambridge University Press, 2010. ISBN: 9780521765398.
